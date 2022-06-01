@@ -11,7 +11,7 @@
             src="https://github-readme-stats.vercel.app/api?username=willianps31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
 
-## Knowledges
+## Languages and Tools
 
 </br>
 
