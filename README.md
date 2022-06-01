@@ -11,6 +11,11 @@
             src="https://github-readme-stats.vercel.app/api?username=willianps31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
 
+## Connect with me
+    
+<img height="50em" src="https://www.ufpb.br/ufpb/icons/redes-sociais/telegram.png/@@images/image.png"/>
+
+    
 ## Languages and Tools
 
 </br>
