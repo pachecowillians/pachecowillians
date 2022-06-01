@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ### Hi! My name is Willian Pacheco Silva!
 
 - 🔭 I’m currently studing Computer Engineering in UFES
