@@ -1,7 +1,14 @@
-### Hi! My name is Willian Pacheco Silva!
+<!---### Hi! My name is Willian Pacheco Silva!
 
 - 🔭 I’m currently studing Computer Engineering in UFES
 - 🌱 I’m currently learning C, C++, Python, Java, ReactJS, NextJS, Javascript and Typescript
+
+
+--->
+
+<div align="center">
+    <h1>Willian Pacheco Silva</h1>   
+</div>
 
 <div align="center">
     <a href="https://github.com/willianps31">
@@ -12,7 +19,7 @@
 </div>
     
 ## Languages and Tools
-    
+
 <table align="center">
 <thead>
   <tr>
