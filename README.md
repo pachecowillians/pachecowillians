@@ -11,19 +11,16 @@
             src="https://github-readme-stats.vercel.app/api?username=willianps31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
 
-## Connect with me
-    
-<img height="50em" src="https://www.ufpb.br/ufpb/icons/redes-sociais/telegram.png/@@images/image.png"/>
-
-    
 ## Languages and Tools
 
 </br>
 
+<div>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -31,10 +28,27 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_src_logo_icon_168043.png" /> 
+<img height="50em" src="https://cdn.icon-icons.com/icons2/1508/PNG/128/distributorlogoarchlinux_103805.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/1508/PNG/128/ubuntustarthere_104634.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/jquery_plain_wordmark_logo_icon_146445.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vscode_icon_130084.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Windows_Phone_icon-icons.com_66782.png" />
+<img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" />
 
+
+</div>
+    
+    
+## Connect with me
+    
+[<img alt="Telegram" width="50em" src="https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png" />](https://www.google.com/)
+[<img alt="Gmail" width="50em" src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" />](https://www.google.com/)
+[<img alt="Linkedin" width="50em" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />](https://www.google.com/)
+[<img alt="YouTube" width="50em" src="https://cdn.icon-icons.com/icons2/195/PNG/128/YouTube_23392.png" />](https://www.google.com/)
+  
+    
 </br>
 
 ## Projects
