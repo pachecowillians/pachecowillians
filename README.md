@@ -10,7 +10,7 @@
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=willianps31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
-
+    
 ## Languages and Tools
     
 <table align="center">
@@ -69,13 +69,6 @@
 </tbody>
 </table>
         
-## Connect with me
-    
-[<img alt="Telegram" width="50em" src="https://cdn.icon-icons.com/icons2/2429/PNG/128/telegram_logo_icon_147228.png" />](https://www.google.com/)
-[<img alt="Gmail" width="50em" src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" />](https://www.google.com/)
-[<img alt="Linkedin" width="50em" src="https://cdn.icon-icons.com/icons2/805/PNG/128/linkedin_icon-icons.com_65929.png" />](https://www.google.com/)
-[<img alt="YouTube" width="50em" src="https://cdn.icon-icons.com/icons2/195/PNG/128/YouTube_23392.png" />](https://www.google.com/)
-
 ## Projects
 
 </br>
