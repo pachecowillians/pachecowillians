@@ -36,42 +36,42 @@
 </thead>
 <tbody>
   <tr align="center">
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/></td>
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/1508/PNG/128/distributorlogoarchlinux_103805.png" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/mysql_logo_icon_169941.png" /></td>
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><img height="50em" src="./img/html5.svg"/></td>
+    <td><img height="50em" src="./img/python.svg" /></td>
+    <td><img height="50em" src="./img/archlinux.svg" /></td>
+    <td><img height="50em" src="./img/mysql.svg" /></td>
+    <td><img height="50em" src="./img/docker.svg" /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></td>
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/1508/PNG/128/ubuntustarthere_104634.png" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/postgresql_original_wordmark_logo_icon_146392.png" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/xampp_94513.png" /></td>
+    <td><img height="50em" src="./img/typescript.svg" /></td>
+    <td><img height="50em" src="./img/c.svg" /></td>
+    <td><img height="50em" src="./img/ubuntu.svg" /></td>
+    <td><img height="50em" src="./img/postgresql.svg" /></td>
+    <td><img height="50em" src="./img/xampp.svg" /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Windows_Phone_icon-icons.com_66782.png" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/sqlite_logo_icon_170706.png" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vscode_icon_130084.png" /></td>
+    <td><img height="50em" src="./img/javascript.svg" /></td>
+    <td><img height="50em" src="./img/cplusplus.svg" /></td>
+    <td><img height="50em" src="./img/Windows.svg" /></td>
+    <td><img height="50em" src="./img/sqlite.svg" /></td>
+    <td><img height="50em" src="./img/git.svg" /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></td>
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_wordmark_logo_icon_146459.png" /></td>
+    <td><img height="50em" src="./img/css3.svg" /></td>
+    <td><img height="50em" src="./img/java.svg" /></td>
     <td></td>
-    <td><img height="50em" src="https://www.webmundi.com/wp-content/uploads/Microsoft-SQL-Server-300x246.png" /></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td><img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img height="50em" src="./img/sqlserver.svg" /></td>
     <td></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/bootstrap_plain_logo_icon_146619.png" /></td>
+    <td><img height="50em" src="./img/react.svg" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td><img height="50em" src="./img/bootstrap.svg" /></td>
     <td></td>
     <td></td>
     <td></td>
