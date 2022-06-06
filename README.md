@@ -77,6 +77,13 @@
     <td></td>
     <td></td>
   </tr>
+  <tr align="center">
+    <td><img height="50em" src="./img/flask.svg" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
         
