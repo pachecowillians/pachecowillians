@@ -18,7 +18,11 @@
             src="https://github-readme-stats.vercel.app/api?username=willianps31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
 </div>
     
+<br/>
+
 ## Languages and Tools
+    
+<br/>
 
 <table align="center">
 <thead>
