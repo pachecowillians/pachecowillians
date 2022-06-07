@@ -1,6 +1,7 @@
 <div align="center">
-<br/>
-    <img height="100em" src="./img/wps.svg"/>
+    <br/>
+    <img height="150em" src="./img/wps.svg"/>
+   <br/>
     <h1>Willian Pacheco Silva</h1>   
 </div>
 
