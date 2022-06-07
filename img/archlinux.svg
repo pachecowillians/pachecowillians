@@ -23,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.68883986"
-     inkscape:cx="309.94142"
-     inkscape:cy="89.280548"
+     inkscape:cx="141.54233"
+     inkscape:cy="113.95972"
      inkscape:window-width="1366"
      inkscape:window-height="713"
      inkscape:window-x="0"
@@ -151,28 +151,10 @@
          style="fill:#1793d1;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <g
          id="text2634"
-         style="font-style:normal;font-weight:normal;font-size:8.44138px;font-family:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none">
-        <path
-           d="m 685.46692,263.83624 v -5.32944 h -1.99082 v -0.71307 h 4.7895 v 0.71307 h -1.99906 v 5.32944 h -0.79962"
-           id="path3660"
-           style="fill:#ffffff;fill-opacity:1" />
-        <path
-           d="m 689.0982,263.83624 v -6.04251 h 1.20355 l 1.43026,4.2784 c 0.13189,0.39843 0.22806,0.69658 0.28852,0.89442 0.0687,-0.21983 0.17586,-0.5427 0.3215,-0.96862 l 1.44674,-4.2042 h 1.07578 v 6.04251 h -0.77077 v -5.05741 l -1.75587,5.05741 h -0.72131 l -1.74763,-5.14396 v 5.14396 h -0.77077"
-           id="path3662"
-           style="fill:#ffffff;fill-opacity:1" />
-      </g>
+         style="font-style:normal;font-weight:normal;font-size:8.44138px;font-family:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none" />
       <g
          id="text2638"
-         style="font-style:normal;font-weight:normal;font-size:8.2513px;font-family:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none">
-        <path
-           d="m 239.84053,313.69965 v -5.20945 h -1.94598 v -0.697 h 4.68164 v 0.697 h -1.95404 v 5.20945 h -0.78162"
-           id="path2883"
-           style="fill:#ffffff;fill-opacity:1" />
-        <path
-           d="m 243.39004,313.69965 v -5.90645 h 1.17646 l 1.39805,4.18205 c 0.12892,0.38947 0.22293,0.6809 0.28202,0.87429 0.0671,-0.21488 0.1719,-0.53048 0.31426,-0.94681 l 1.41417,-4.10953 h 1.05155 v 5.90645 h -0.75341 v -4.94353 l -1.71634,4.94353 h -0.70506 l -1.70828,-5.02814 v 5.02814 h -0.75342"
-           id="path2885"
-           style="fill:#ffffff;fill-opacity:1" />
-      </g>
+         style="font-style:normal;font-weight:normal;font-size:8.2513px;font-family:'DejaVu Sans Mono';fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
