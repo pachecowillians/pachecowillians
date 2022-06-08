@@ -1,12 +1,9 @@
 <div align="center">
     <br/>
     <img height="150em" src="./img/wps.svg"/>
-    <hr color="#e3534a" />
-    <font size="5" color="#f5f5f5"> Willian Pacheco Silva</font>
-    <hr color="#e3534a" />
+   <br/>
+    <h1>Willian Pacheco Silva</h1>   
 </div>
-
-<br/>
 
 <div align="center">
     <a href="https://github.com/willianps31">
