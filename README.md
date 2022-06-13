@@ -45,7 +45,7 @@ My history as a programmer begins in 2017 when I started a software development 
   <tr align="center">
     <td><img height="50em" src="./img/html5.svg"/></td>
     <td><img height="50em" src="./img/python.svg" /></td>
-    <td><img height="50em" src="./img/archlinux.svg" /></td>
+    <td><img width="100em" src="./img/archlinux.svg" /></td>
     <td><img height="50em" src="./img/mysql.svg" /></td>
     <td><img height="50em" src="./img/docker.svg" /></td>
   </tr>
