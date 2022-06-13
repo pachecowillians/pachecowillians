@@ -22,7 +22,9 @@ My history as a programmer begins in 2017 when I started a software development 
 <div align="center">
     <a href="https://github.com/willianps31">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianps31&layout=compact&langs_count=25&theme=github_dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecowillians&layout=compact&langs_count=25&theme=github_dark" />
+             <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=pachecowillians&layout=compact&langs_count=25&theme=github_dark" />
 </div>
     
 <br/>
