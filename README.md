@@ -95,7 +95,3 @@ My history as a programmer begins in 2017 when I started a software development 
   </tr>
 </tbody>
 </table>
-        
-<!-- 
-   Theme names: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-   -->
