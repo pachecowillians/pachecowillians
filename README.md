@@ -67,13 +67,27 @@ My history as a programmer begins in 2017 when I started a software development 
   </tr>
   <tr align="center">
     <td><img height="50em" src="./img/css3.svg" /></td>
-    <td><img height="50em" src="./img/java.svg" /></td>
+    <td><img height="50em" src="./img/csharp.svg" /></td>
     <td></td>
     <td><img height="50em" src="./img/sqlserver.svg" /></td>
     <td></td>
   </tr>
   <tr align="center">
+    <td><img height="50em" src="./img/nextjs.svg" /></td>
+    <td><img height="50em" src="./img/java.svg" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr align="center">
     <td><img height="50em" src="./img/react.svg" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td><img height="50em" src="./img/flask.svg" /></td>
     <td></td>
     <td></td>
     <td></td>
@@ -87,7 +101,7 @@ My history as a programmer begins in 2017 when I started a software development 
     <td></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/flask.svg" /></td>
+    <td><img width="50em" src="./img/php.svg" /></td>
     <td></td>
     <td></td>
     <td></td>
