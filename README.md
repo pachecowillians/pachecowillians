@@ -21,9 +21,11 @@ My history as a programmer begins in 2017 when I started a software development 
     <a href="https://www.linkedin.com/in/pachecowillians/">
         <img height="35em" src="./img/linkedin.svg"/>
     </a>
+    &nbsp;
     <a href="mailto:willianpacheco31@gmail.com">
         <img height="35em" src="./img/gmail.svg"/>
     </a>
+    &nbsp;
     <a href="https://pachecowillians.github.io/">
         <img height="35em" src="./img/portfolio.svg"/>
     </a>
