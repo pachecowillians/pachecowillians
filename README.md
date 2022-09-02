@@ -7,7 +7,6 @@
 
 ## Hello, my name is Willian!
 
-<br/>
 <p align="justify"> 
 I am linux user and a Computer Engineering student, always looking for new challenges and new learning. I live in Brazil since i was born, in 2001.
 </p>
@@ -18,15 +17,30 @@ My history as a programmer begins in 2017 when I started a software development 
 
 <br/>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/pachecowillians/">
+        <img height="35em" src="./img/linkedin.svg"/>
+    </a>
+    <a href="mailto:willianpacheco31@gmail.com">
+        <img height="35em" src="./img/gmail.svg"/>
+    </a>
+    <a href="https://pachecowillians.github.io/">
+        <img height="35em" src="./img/portfolio.svg"/>
+    </a>
+</div>
+
+<br/>
 
 <div align="center">
     <a href="https://github.com/willianps31">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecowillians&layout=compact&langs_count=25&theme=github_dark" />
-             <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=pachecowillians&layout=compact&langs_count=25&theme=github_dark" />
+        <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=pachecowillians&layout=compact&langs_count=25&theme=github_dark" />
+      </a>
 </div>
-    
+
+
 <br/>
 
 ## Languages and Tools
