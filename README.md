@@ -8,11 +8,11 @@
 ## Hello, my name is Willian!
 
 <p align="justify"> 
-I am linux user and a Computer Engineering student, always looking for new challenges and new learning. I live in Brazil since i was born, in 2001.
+I'm a FullStack developer, focused on Front-end, who is always looking for new challenges and learning.
 </p>
 
 <p align="justify"> 
-My history as a programmer begins in 2017 when I started a software development course. In the beginning of the course, i learned C# and Object Oriented programming. One year later, in 2018, i learned SQL to create and manipulate databases and begun my study of WEB development. I learned HTML, CSS (and Bootstrap) and Javascript (and JQuery) to do my final project and finish the course. In the next year, 2019, I begun my Computer Engineering course where i learned Python, C, C++, Java and Assembly. I am finishing college but, beyond the college, i am learning React, Typescript, Docker and Git by myself.
+My story as a programmer started at the age of 16, when I started my Technical course in Systems Development at SENAI. At the beginning of the course, I learned C# and Object Oriented Programming. The following year, I learned to use the SQL language to create and manipulate databases, and started my studies in WEB development. During this period, I learned HTML, CSS, JavaScript, Bootstrap and jQuery to carry out my Course Completion Work. In 2019, I started studying Computer Engineering at the Federal University of Espírito Santo, where I learned Python, C, C++, Java and Assembly. I'm currently finishing college and I'm learning ReactJS, NextJS, TypeScript, Docker and Git on my own in my spare time.
 </p>
 
 <br/>
