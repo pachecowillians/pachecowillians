@@ -19,15 +19,15 @@ My story as a programmer started at the age of 16, when I started my Technical c
 
 <div align="center">
     <a href="https://www.linkedin.com/in/pachecowillians/">
-        <img height="35em" src="./img/linkedin.svg"/>
+        <img height="35em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/linkedin.svg"/>
     </a>
     &nbsp;
     <a href="mailto:willianpacheco31@gmail.com">
-        <img height="35em" src="./img/gmail.svg"/>
+        <img height="35em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/gmail.svg"/>
     </a>
     &nbsp;
     <a href="https://pachecowillians.github.io/">
-        <img height="35em" src="./img/portfolio.svg"/>
+        <img height="35em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/portfolio.svg"/>
     </a>
 </div>
 
@@ -61,63 +61,63 @@ My story as a programmer started at the age of 16, when I started my Technical c
 </thead>
 <tbody>
   <tr align="center">
-    <td><img height="50em" src="./img/html5.svg"/></td>
-    <td><img height="50em" src="./img/python.svg" /></td>
-    <td><img width="100em" src="./img/archlinux.svg" /></td>
-    <td><img height="50em" src="./img/mysql.svg" /></td>
-    <td><img height="50em" src="./img/docker.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/html5.svg"/></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/python.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/7dfc60c156d553628d3b83b665be26e41bed0ad5/img/archlinux.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/mysql.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/docker.svg"  /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/typescript.svg" /></td>
-    <td><img height="50em" src="./img/c.svg" /></td>
-    <td><img height="50em" src="./img/ubuntu.svg" /></td>
-    <td><img height="50em" src="./img/postgresql.svg" /></td>
-    <td><img height="50em" src="./img/xampp.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/typescript.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/c.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/ubuntu.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/postgresql.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/xampp.svg"  /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/javascript.svg" /></td>
-    <td><img height="50em" src="./img/cplusplus.svg" /></td>
-    <td><img height="50em" src="./img/Windows.svg" /></td>
-    <td><img height="50em" src="./img/sqlite.svg" /></td>
-    <td><img height="50em" src="./img/git.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/javascript.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/cplusplus.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/7dfc60c156d553628d3b83b665be26e41bed0ad5/img/windows.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/sqlite.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/git.svg"  /></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/css3.svg" /></td>
-    <td><img height="50em" src="./img/csharp.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/css3.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/csharp.svg"  /></td>
     <td></td>
-    <td><img height="50em" src="./img/sqlserver.svg" /></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td><img height="50em" src="./img/nextjs.svg" /></td>
-    <td><img height="50em" src="./img/java.svg" /></td>
-    <td></td>
-    <td></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/sqlserver.svg"  /></td>
     <td></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/react.svg" /></td>
-    <td></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/nextjs.svg"  /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/java.svg"  /></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/flask.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/react.svg"  /></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr align="center">
-    <td><img height="50em" src="./img/bootstrap.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/flask.svg"  /></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr align="center">
-    <td><img width="50em" src="./img/php.svg" /></td>
+    <td><img height="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/bootstrap.svg"  /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td><img width="50em" src="https://raw.githubusercontent.com/pachecowillians/svg-icons/9d3e2afea776a3913d3983f7c0acef3b10b6289f/img/php.svg"  /></td>
     <td></td>
     <td></td>
     <td></td>
