@@ -7,13 +7,11 @@
 
 ## Hello, my name is Willian!
 
-<p align="justify"> 
-I'm a FullStack developer, focused on Front-end, who is always looking for new challenges and learning.
-</p>
+<p align="justify">I am a FullStack developer with a strong focus on Front-end development, constantly seeking new challenges and opportunities for growth.</p>
 
-<p align="justify"> 
-My story as a programmer started at the age of 16, when I started my Technical course in Systems Development at SENAI. At the beginning of the course, I learned C# and Object Oriented Programming. The following year, I learned to use the SQL language to create and manipulate databases, and started my studies in WEB development. During this period, I learned HTML, CSS, JavaScript, Bootstrap and jQuery to carry out my Course Completion Work. In 2019, I started studying Computer Engineering at the Federal University of Espírito Santo, where I learned Python, C, C++, Java and Assembly. I'm currently finishing college and I'm learning ReactJS, NextJS, TypeScript, Docker and Git on my own in my spare time.
-</p>
+<p align="justify">My journey as a programmer began at the age of 16 when I enrolled in the Systems Development Technical course at SENAI. Throughout the course, I gained proficiency in C# and Object-Oriented Programming. The following year, I delved into SQL, mastering the creation and manipulation of databases, while also embarking on my studies in web development. During this period, I acquired skills in HTML, CSS, JavaScript, Bootstrap, and jQuery, which I applied in my Course Completion Work.</p>
+
+<p align="justify">In 2019, I enrolled in Computer Engineering at the Federal University of Espírito Santo, where my programming knowledge expanded to include Python, C, C++, Java, and Assembly. Currently, I am nearing the completion of my degree and I am furthering my skills independently during my spare time. I am actively learning ReactJS, NextJS, TypeScript, Docker, and Git.</p>
 
 <br/>
 
