@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="136" viewBox="0 0 400 136" role="img" aria-label="particle-swarm-optimization. Multi-objective particle swarm optimization (MOPSO) for resource allocation problems, balancing multiple objectives and constraints. Language: Jupyter Notebook.">
+<rect x="0.5" y="0.5" width="399" height="135" rx="6" fill="#151b23" stroke="#3d444d"/>
+<svg x="20" y="16" width="16" height="16" viewBox="0 0 16 16"><path fill="#9198a1" fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+<text x="44" y="29" font-size="15" font-weight="600" fill="#4493f8" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">particle-swarm-optimization</text>
+<text x="20" y="58" font-size="12" fill="#9198a1" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">Multi-objective particle swarm optimization (MOPSO) for</text>
+<text x="20" y="76" font-size="12" fill="#9198a1" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">resource allocation problems, balancing multiple objectives and</text>
+<text x="20" y="94" font-size="12" fill="#9198a1" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">constraints.</text>
+<circle cx="26" cy="116" r="6" fill="#DA5B0B"/>
+<text x="38" y="120" font-size="12" fill="#9198a1" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">Jupyter Notebook</text>
+</svg>
