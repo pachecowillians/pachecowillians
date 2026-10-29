@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="40" viewBox="0 0 87 40" role="img" aria-label="Lattes">
+<rect x="0.5" y="0.5" width="86" height="39" rx="19.5" fill="#212830" stroke="#3d444d"/>
+<svg x="10" y="12" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#4493f8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.92a1 1 0 0 0-.02-1.84L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0z"/><path d="M22 10v6M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></svg>
+<text x="32" y="25" font-size="14" font-weight="600" fill="#e6edf3" font-family="ui-sans-serif, 'Segoe UI', 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif">Lattes</text>
+</svg>
