@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="188" height="46" viewBox="0 0 188 46" role="img" aria-label="ORCID">
-<rect x="6.5" y="3.5" width="175" height="39" rx="19.5" fill="rgb(33, 40, 48)" stroke="rgb(61, 68, 77)"/>
-<svg viewBox="0 0 24 24" fill="none" stroke="#4493f8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="56.90" y="13" width="20" height="20"><circle cx="12" cy="12" r="10"/><path d="M8.5 8v8M12 8h1.5a4 4 0 0 1 0 8H12z"/></svg>
-<text x="86.90" y="28" font-size="14" font-weight="600" fill="rgb(230, 237, 243)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif">ORCID</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="46" viewBox="0 0 182 46" role="img" aria-label="ORCID">
+<rect x="6.5" y="3.5" width="169" height="39" rx="19.5" fill="rgb(33, 40, 48)" stroke="rgb(61, 68, 77)"/>
+<svg viewBox="0 0 24 24" fill="none" stroke="#4493f8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="53.90" y="13" width="20" height="20"><circle cx="12" cy="12" r="10"/><path d="M8.5 8v8M12 8h1.5a4 4 0 0 1 0 8H12z"/></svg>
+<text x="83.90" y="28" font-size="14" font-weight="600" fill="rgb(230, 237, 243)" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif">ORCID</text>
 </svg>
